@@ -1,12 +1,13 @@
 # Relearning Stuff
   How to add an image and link to my github [Link](https://discord.com/channels/739577555325157407/739577555849445376/760164394067296276)
+  To add the image I had to put them in the main part of my repo instead of in my evidence folder so I am not sure if that's something I can fix at the moment
 
 # Photogrammetry
   *Disclaimer* I am starting this week super late due to poor time management on my part (apologies for that) so I will do my best to do all of this week's work, but if I can't I'll be doing it during the Consolidation Pause. Here it goes!
   
   For this I will use my Canon Rebel T6
   
-  I decided to try Regard3 - So I plugged in about 30 image of my little turtle and the first test did not work. I got this error message ![Error](Regard3D_Error_Message.png), so I tried again with the TBMR button clicked 
+  I decided to try Regard3 - So I plugged in about 30 image of my little turtle and the first test did not work. I got this error message ![Error](Regard3D_Error_Message.png) so I tried again with the TBMR button clicked 
   I tried again with my Groot figurine, which worked even less than the turtle. 
   I think I will need more photos of my objects to get a better result so I will try that next. 
   
