@@ -17,7 +17,7 @@
   
   Today I am trying Groot again with a new set of images, but I still get the same error message. I ended up with yet another indecipherable image. Maybe I will try with cellphone pictures next week to see if it is my camera that is causing the issues.
   
-  I asked in the group if anyone else was experiencing the same issues as me, and Josh sent me this [Link](https://github.com/shawngraham/hist3812w18/wiki/How-do-I-add-metadata-to-my-own-pictures%3F-I-know-I-need-this-to-use-Regard3d-to-make-my-model) which I will try first next week to see if that helps remove my error message. 
+  I asked in the group if anyone else was experiencing the same issues as me, and Josh P sent me this [Link](https://github.com/shawngraham/hist3812w18/wiki/How-do-I-add-metadata-to-my-own-pictures%3F-I-know-I-need-this-to-use-Regard3d-to-make-my-model) which I will try first next week to see if that helps remove my error message. 
   
 
   
