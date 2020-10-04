@@ -1,5 +1,6 @@
 # Relearning Stuff
   How to add an image and link to my github [Link](https://discord.com/channels/739577555325157407/739577555849445376/760164394067296276)
+  
   To add the image I had to put them in the main part of my repo instead of in my evidence folder so I am not sure if that's something I can fix at the moment
 
 # Photogrammetry
