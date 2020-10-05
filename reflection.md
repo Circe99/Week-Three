@@ -1,1 +1,3 @@
+This week was not a good one for me in terms of managing my time, which I mention in my notes as well. I was able to do some of the activities, but that was the extent of my abilities this week. That said I was very confused by my issues in the 3D models I was working on since I chose to use my camera (which removes the need of adding metadata). In the following week I will try with my phone and add the metadata to see if that will help. Thank you to Josh who sent me a link to use for that. 
 
+I will also take the time to read through the readings more thoroughly and reflect on them better because I scanned through them very quickly and I find that they desirve a better examination of the content.
